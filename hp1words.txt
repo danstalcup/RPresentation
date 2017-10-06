@@ -42,7 +42,6 @@ one
 first
 Text
 copyright
-©
 1997
 by
 JK
@@ -52,7 +51,6 @@ by
 Mary
 GrandPré
 copyright
-©
 1998
 Warner
 Bros
@@ -80,7 +78,8 @@ LANTERN
 LOGO
 are
 trademarks
-and/or
+and
+or
 registered
 trademarks
 of
@@ -142,7 +141,7 @@ write
 to
 Scholastic
 Inc
-Attention:
+Attention
 Permissions
 Department
 555
@@ -164,13 +163,12 @@ and
 the
 Sorcerer's
 Stone
-/
 by
 JK
 Rowling
 p
 cm
-Summary:
+Summary
 Rescued
 from
 the
@@ -201,7 +199,7 @@ and
 Wizardry
 ISBN
 0590353403
-[1
+1
 Fantasy
 Fiction
 2
@@ -215,12 +213,12 @@ Schools
 Fiction
 5
 England
-Fiction]
+Fiction
 I
 Title
 PZ7R79835Har
 1998
-[Fic]
+Fic
 dc21
 9739059
 64
@@ -1724,7 +1722,7 @@ report
 on
 the
 evening
-news:
+news
 And
 finally
 birdwatchers
@@ -3132,7 +3130,7 @@ him
 by
 his
 proper
-name:
+name
 Voldemort
 Professor
 McGonagall
@@ -4821,7 +4819,7 @@ and
 saying
 in
 hushed
-voices:
+voices
 To
 Harry
 Potter
@@ -6835,7 +6833,7 @@ liked
 to
 complain
 about
-things:
+things
 people
 at
 work
@@ -6916,7 +6914,7 @@ gigantic
 beet
 with
 a
-mustache:
+mustache
 MOTORCYCLES
 DON'T
 FLY
@@ -7483,7 +7481,7 @@ look
 that
 said
 quite
-plainly:
+plainly
 I
 get
 that
@@ -7560,7 +7558,7 @@ again
 and
 Harry
 read
-on:
+on
 This
 specimen
 was
@@ -8016,7 +8014,7 @@ up
 with
 a
 strange
-vision:
+vision
 a
 blinding
 flash
@@ -8401,7 +8399,7 @@ join
 in
 Dudley's
 favorite
-sport:
+sport
 Harry
 Hunting
 This
@@ -9009,7 +9007,7 @@ things
 lay
 on
 the
-doormat:
+doormat
 a
 postcard
 from
@@ -9104,7 +9102,7 @@ there
 could
 be
 no
-mistake:
+mistake
 Mr
 H
 Potter
@@ -9827,7 +9825,7 @@ Dursleys'
 house
 had
 four
-bedrooms:
+bedrooms
 one
 for
 Uncle
@@ -11258,7 +11256,7 @@ read
 the
 green
 ink
-address:
+address
 Mr
 H
 Potter
@@ -12755,7 +12753,7 @@ the
 pockets
 of
 his
-coat:
+coat
 a
 copper
 kettle
@@ -13432,14 +13430,14 @@ out
 the
 letter
 and
-read:
+read
 HOGWARTS
 SCHOOL
 of
 WITCHCRAFT
 and
 WIZARDRY
-Headmaster:
+Headmaster
 ALBUS
 DUMBLEDORE
 (Order
@@ -13602,7 +13600,7 @@ Harry
 could
 read
 upside
-down:
+down
 Dear
 Professor
 Dumbledore
@@ -14673,7 +14671,7 @@ first
 time
 in
 his
-life:
+life
 a
 high
 cold
@@ -17020,7 +17018,7 @@ the
 night
 before
 and
-read:
+read
 HOGWARTS
 SCHOOL
 of
@@ -17031,7 +17029,7 @@ UNIFORM
 Firstyear
 students
 will
-require:
+require
 1
 Three
 sets
@@ -17088,7 +17086,7 @@ of
 each
 of
 the
-following:
+following
 The
 Standard
 Book
@@ -17147,7 +17145,7 @@ Newt
 Scamander
 The
 Dark
-Forces:
+Forces
 A
 Guide
 to
@@ -18302,7 +18300,7 @@ look
 at
 everything
 at
-once:
+once
 the
 shops
 the
@@ -18528,7 +18526,7 @@ with
 words
 engraved
 upon
-them:
+them
 Enter
 stranger
 but
@@ -20575,7 +20573,7 @@ Enemies
 with
 the
 Latest
-Revenges:
+Revenges
 Hair
 Loss
 JellyLegs
@@ -20966,7 +20964,7 @@ over
 the
 door
 read
-Ollivanders:
+Ollivanders
 Makers
 of
 Fine
@@ -26059,7 +26057,7 @@ over
 his
 card
 and
-read:
+read
 ALBUS
 DUMBLEDORE
 CURRENTLY
@@ -27423,7 +27421,7 @@ the
 middle
 one
 at
-once:
+once
 It
 was
 the
@@ -28161,7 +28159,7 @@ voice
 echoed
 through
 the
-train:
+train
 We
 will
 be
@@ -28263,7 +28261,7 @@ Harry
 heard
 a
 familiar
-voice:
+voice
 Firs'
 years
 Firs'
@@ -29312,7 +29310,7 @@ fat
 little
 monk
 was
-saying:
+saying
 Forgive
 and
 forget
@@ -29791,7 +29789,7 @@ the
 hat
 began
 to
-sing:
+sing
 Oh
 you
 may
@@ -30539,7 +30537,7 @@ got
 his
 wish
 at
-once:
+once
 the
 hat
 had
@@ -31143,7 +31141,7 @@ words
 And
 here
 they
-are:
+are
 Nitwit
 Blubber
 Oddment
@@ -31224,7 +31222,7 @@ to
 eat
 on
 one
-table:
+table
 roast
 beef
 roast
@@ -32419,7 +32417,7 @@ go
 And
 the
 school
-bellowed:
+bellowed
 Hogwarts
 Hogwarts
 Hoggy
@@ -32944,7 +32942,7 @@ found
 their
 beds
 at
-last:
+last
 five
 fourposters
 hung
@@ -33230,7 +33228,7 @@ and
 fortytwo
 staircases
 at
-Hogwarts:
+Hogwarts
 wide
 sweeping
 ones;
@@ -34439,7 +34437,7 @@ in
 a
 very
 untidy
-scrawl:
+scrawl
 Dear
 Harry
 I
@@ -35937,7 +35935,7 @@ cutting
 from
 the
 Daily
-Prophet:
+Prophet
 GRINGOTTS
 BREAKIN
 LATEST
@@ -36388,7 +36386,7 @@ wasn't
 the
 only
 one
-though:
+though
 the
 way
 Seamus
@@ -38729,7 +38727,7 @@ far
 less
 welcome
 turned
-up:
+up
 Malfoy
 flanked
 by
@@ -41410,7 +41408,7 @@ was
 lucky
 because
 it
-said:
+said
 DO
 NOT
 OPEN
@@ -44462,7 +44460,7 @@ very
 brave
 and
 very
-stupid:
+stupid
 He
 took
 a
@@ -44596,7 +44594,7 @@ that
 came
 into
 his
-head:
+head
 Wingardium
 Leviosa
 The
@@ -45462,7 +45460,7 @@ match
 after
 weeks
 of
-training:
+training
 Gryffindor
 versus
 Slytherin
@@ -50775,7 +50773,7 @@ before
 were
 the
 following
-words:
+words
 Your
 father
 left
@@ -51502,7 +51500,7 @@ free
 to
 think
 about
-it:
+it
 the
 Invisibility
 Cloak
@@ -52438,7 +52436,7 @@ inscription
 carved
 around
 the
-top:
+top
 Erised
 stra
 ehru
@@ -55158,7 +55156,7 @@ coming
 here
 listen
 to
-this:
+this
 ‘Dumbledore
 is
 particularly
@@ -55377,7 +55375,7 @@ and
 Harry
 and
 Ron
-read:
+read
 The
 ancient
 study
@@ -56749,7 +56747,7 @@ which
 was
 a
 happy
-blur:
+blur
 Gryffindors
 running
 to
@@ -58006,7 +58004,7 @@ about
 dragons
 Look
 at
-these:
+these
 Dragon
 Species
 of
@@ -58847,7 +58845,7 @@ something
 else
 to
 worry
-about:
+about
 what
 might
 happen
@@ -58924,7 +58922,7 @@ had
 written
 only
 two
-words:
+words
 It's
 hatching
 Ron
@@ -61516,7 +61514,7 @@ the
 story
 started
 to
-spread:
+spread
 Harry
 Potter
 the
@@ -62375,7 +62373,7 @@ They
 were
 all
 the
-same:
+same
 Your
 detention
 will
@@ -63557,7 +63555,7 @@ slithering
 over
 dead
 leaves
-nearby:
+nearby
 it
 sounded
 like
@@ -65494,7 +65492,7 @@ the
 night
 they
 had
-met:
+met
 Some
 say
 he
@@ -65931,7 +65929,7 @@ a
 note
 pinned
 to
-it:
+it
 Just
 in
 case
@@ -71703,7 +71701,7 @@ her
 shoulder
 to
 read
-it:
+it
 Danger
 lies
 before
@@ -71774,7 +71772,7 @@ give
 you
 these
 clues
-four:
+four
 First
 however
 slyly
@@ -71921,7 +71919,7 @@ on
 this
 paper
 Seven
-bottles:
+bottles
 three
 are
 poison;
@@ -73270,7 +73268,7 @@ his
 ankles
 were
 too
-tight:
+tight
 he
 tripped
 and
@@ -74128,7 +74126,7 @@ too
 and
 then
 Harry
-knew:
+knew
 Quirrell
 couldn't
 touch
@@ -74303,7 +74301,7 @@ at
 him
 Then
 he
-remembered:
+remembered
 Sir
 The
 Stone
@@ -75752,7 +75750,7 @@ rumors
 Harry
 told
 them
-everything:
+everything
 Quirrell;
 the
 mirror;
@@ -76682,7 +76680,7 @@ and
 the
 points
 stand
-thus:
+thus
 In
 fourth
 place
@@ -77566,7 +77564,7 @@ world
 Some
 of
 them
-called:
+called
 Bye
 Harry
 See
