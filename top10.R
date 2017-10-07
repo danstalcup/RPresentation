@@ -6,3 +6,11 @@ top10 <- function(filename) {
 	return(loadedDataSorted[1:10])
 
 }
+
+
+top10plot <- function(filename) {
+
+	top10data <- top10(filename)
+	plot(top10data)
+
+}
